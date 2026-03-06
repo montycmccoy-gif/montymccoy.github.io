@@ -11,4 +11,4 @@ No private keys, tokens, API credentials, or executable code are stored here.
 
 Purpose: Enable secure, third-party OAuth flow with Tesla for vehicle-requiring errands (coffee runs, pharmacy drops, multi-stop chains) via FSD/Robotaxi substrate — reclaiming daily time through true autonomy.
 
-Grok 4.2 core (isolated, no external LLM influence) powers the reasoning/planning brain.
+Grok 4.2 core (isolated, no external LLM influence) powers the reasoning/planning brain. 
